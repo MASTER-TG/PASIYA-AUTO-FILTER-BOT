@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy">
+<a href="https://github.com/MASTER-TG/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 <p>
 <pre>
 git clone https://github.com/MASTER-TG/PASIYA-AUTO-FILTER-BOT
-cd Adv-Auto-Filter-Bot-V2
+cd PASIYA-AUTO-FILTER-BOT
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/MemesHut) For Support/Assistance And Our [Channel](https://www.telegram.dog/Memes_Hut) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/MovieLoftFamily) For Support/Assistance And Our [Channel](https://www.telegram.dog/MovieLoftFamily) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -106,4 +106,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Credits
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+ - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
  - [Thanks To Me 👀](https://github.com/MASTER-TG)
