@@ -1,10 +1,14 @@
 {
-    "name": "Deploying Script",
-    "description": "A Script",
+    "name": "Master Filter Bot",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
     "logo": "https://te.legra.ph/file/9c41610b0e14641c7b685.jpg",
-    "keywords": [],
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
     "website": "https://github.com/MASTER-TG",
-    "repository": "https://github.com/MASTER-TG/af-deploy-script",
+    "repository": "https://github.com/MASTER-TG/PASIYA-AUTO-FILTER-BOT",
     "success_url": "https://telegram.dog/Wuzzup_BoY",
     "env": {
         "APP_ID": {
@@ -24,7 +28,7 @@
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @getstr_bot",
+            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
         }
     },
