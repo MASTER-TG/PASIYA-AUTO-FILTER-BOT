@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My TG ⚡", url="https://t.me/Wuzzup_GirL"
+                    "My TG ⚡", url="https://t.me/@Wuzzup_BoY"
                 ),
                 
             InlineKeyboardButton
@@ -1642,7 +1642,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My TG 👨‍🔬', url='https://t.me/Wuzzup_GirL'),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MASTER-TG/PASIYA-AUTO-FILTER-BOT.git')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/MemesHut')
+            InlineKeyboardButton('Support 🛠', url='https://t.me/MASTER_BoTsX')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
