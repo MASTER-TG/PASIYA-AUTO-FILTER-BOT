@@ -1,15 +1,11 @@
 {
-    "name": "Pasiya Auto Filter Bot ",
-    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
+    "name": "Deploying Script",
+    "description": "A Script",
     "logo": "https://te.legra.ph/file/9c41610b0e14641c7b685.jpg",
-    "keywords": [
-        "Auto",
-        "Filter",
-        "Mongo DB"
-    ],
+    "keywords": [],
     "website": "https://github.com/MASTER-TG",
-    "repository": "https://github.com/MASTER-TG/PASIYA-AUTO-FILTER-BOT.git",
-    "success_url": "https://telegram.dog/MemesHut",
+    "repository": "https://github.com/MASTER-TG/af-deploy-script",
+    "success_url": "https://telegram.dog/Wuzzup_BoY",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
@@ -28,7 +24,7 @@
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "A Pyrogram User Session String. Generated From @getstr_bot",
             "value": ""
         }
     },
