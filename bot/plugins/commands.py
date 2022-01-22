@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @Wuzzup_GirL
+# (c) @Wuzzup_BoY
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MemesHut"
+                                    'Developer', url="https://t.me/Wuzzup_BoY"
                                 )
                         ]
                     ]
@@ -47,10 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/MemesHut'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MASTER-TG/PASIYA-AUTO-FILTER-BOT.git')
-    ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/MemesHut')
+        InlineKeyboardButton('Developer', url='https://t.me/Wuzzup_BoY')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
